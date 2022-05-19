@@ -139,7 +139,53 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="04.06.后继者.cpp" />
+    <ClCompile Include="105.从前序与中序遍历构造二叉树.cpp" />
+    <ClCompile Include="106.从中序与后序遍历构造二叉树.cpp" />
+    <ClCompile Include="111.二叉树的最小深度.cpp" />
+    <ClCompile Include="1305.两棵二叉搜索树的所有元素.cpp" />
+    <ClCompile Include="1728..cpp" />
+    <ClCompile Include="207.课程表.cpp" />
+    <ClCompile Include="210.cpp" />
+    <ClCompile Include="226.翻转二叉树.cpp" />
+    <ClCompile Include="303.区域和检索.cpp" />
+    <ClCompile Include="304.矩阵前缀和.cpp" />
+    <ClCompile Include="315.计算左侧小于当前元素的个数.cpp" />
+    <ClCompile Include="354.套娃信封.cpp" />
+    <ClCompile Include="4.寻找两个正序数组的中位数.cpp" />
+    <ClCompile Include="416.分割等和子集.cpp" />
+    <ClCompile Include="433.最小基因变化.cpp" />
+    <ClCompile Include="435.无重叠区间.cpp" />
+    <ClCompile Include="449.cpp" />
+    <ClCompile Include="452.cpp" />
+    <ClCompile Include="455.分发饼干.cpp" />
+    <ClCompile Include="462.cpp" />
+    <ClCompile Include="494.目标和%28dfs%29.cpp" />
+    <ClCompile Include="528.按权重随机分配.cpp" />
+    <ClCompile Include="53.最大子数组和.cpp" />
+    <ClCompile Include="560.和为k的子数组.cpp" />
+    <ClCompile Include="654.最大二叉树.cpp" />
+    <ClCompile Include="668.乘法表中第k小的数.cpp" />
+    <ClCompile Include="691.贴纸拼词hard.cpp" />
+    <ClCompile Include="72.编辑距离.cpp" />
+    <ClCompile Include="74.最小覆盖子串.cpp" />
+    <ClCompile Include="752.打开转盘锁.cpp" />
+    <ClCompile Include="785.判断二分图.cpp" />
+    <ClCompile Include="797.所有可能的路径.cpp" />
+    <ClCompile Include="812.最大三角形面积.cpp" />
+    <ClCompile Include="870.cpp" />
+    <ClCompile Include="875.沫扬吃香蕉.cpp" />
+    <ClCompile Include="886.可能的二分法.cpp" />
+    <ClCompile Include="889.cpp" />
+    <ClCompile Include="912.cpp" />
+    <ClCompile Include="942.增加字符串匹配.cpp" />
+    <ClCompile Include="944.删列造序.cpp" />
+    <ClCompile Include="953.验证外星语词典.cpp" />
+    <ClCompile Include="BFS模板.cpp" />
     <ClCompile Include="test01.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="449.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

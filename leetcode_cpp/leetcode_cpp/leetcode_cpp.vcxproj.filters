@@ -13,10 +13,210 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\题库">
+      <UniqueIdentifier>{c0a7b660-0f74-4511-be70-0abf6932abd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\剑指offer">
+      <UniqueIdentifier>{47b52e40-9f9c-445e-a501-00d9dcb922f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\题库\每日一题">
+      <UniqueIdentifier>{f3d56829-a3c3-47ac-8b5b-8ab27b67e470}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\题库\每日一题\未AC">
+      <UniqueIdentifier>{a92657b4-6a51-4e82-9d75-2dd769176a4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\题库\刷题">
+      <UniqueIdentifier>{7e9a3e3b-4333-485f-95ae-2f6b73bfbf0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\题库\专题">
+      <UniqueIdentifier>{06b9cd88-8c32-48a8-bba0-dfdcbd677cbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\题库\专题\2.排序">
+      <UniqueIdentifier>{a40430e7-5c7e-49c6-b5a4-1ece60278bb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\题库\专题\2.排序\归并排序">
+      <UniqueIdentifier>{fb885041-7cdf-443b-9468-1c535e72ab54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\题库\专题\3.前缀和">
+      <UniqueIdentifier>{2a99baf7-cdfd-4842-845a-a28c15153d77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\题库\专题\4.动态规划">
+      <UniqueIdentifier>{3ae9cc59-6bb7-43ca-bf37-95907240bd60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\题库\专题\4.动态规划\背包问题">
+      <UniqueIdentifier>{8778a4bf-c991-4e4a-b1d5-0bdf57d41b1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\题库\专题\6.回溯">
+      <UniqueIdentifier>{726df021-9e84-413a-8050-8c60c9056dac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\题库\专题\7.BFS">
+      <UniqueIdentifier>{a878fd89-a2cb-4af6-a1e2-b3fbd517b4eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\题库\专题\8.滑动窗口">
+      <UniqueIdentifier>{4e51a373-fbc1-4e84-8514-c7fac568430b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\题库\专题\9.二分搜索">
+      <UniqueIdentifier>{38cfb497-3005-4b3e-b71d-355b8e1d05ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\题库\专题\10.二叉树">
+      <UniqueIdentifier>{f324fa75-2192-42fc-b569-2faf40f20664}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\题库\专题\11.图">
+      <UniqueIdentifier>{2d9b9b07-cf88-4ca7-8380-57328550971e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\题库\专题\11.图\拓扑排序">
+      <UniqueIdentifier>{d349ac28-55f1-424c-bd8c-91ea78957c86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\题库\专题\11.图\二分图">
+      <UniqueIdentifier>{bc79e40d-afba-470b-974f-503dd667ad61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\题库\专题\11.图\Dijkstra算法">
+      <UniqueIdentifier>{221f193c-f642-4f87-ac8c-75dc881a8945}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\题库\专题\12.贪心算法">
+      <UniqueIdentifier>{4848efda-29ac-4acf-bde9-36153391b6ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\题库\刷题\1.数组、双指针">
+      <UniqueIdentifier>{fc1562e7-459b-42f6-a2f8-6062b7a6a00c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test01.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="303.区域和检索.cpp">
+      <Filter>源文件\题库\专题\3.前缀和</Filter>
+    </ClCompile>
+    <ClCompile Include="304.矩阵前缀和.cpp">
+      <Filter>源文件\题库\专题\3.前缀和</Filter>
+    </ClCompile>
+    <ClCompile Include="560.和为k的子数组.cpp">
+      <Filter>源文件\题库\专题\3.前缀和</Filter>
+    </ClCompile>
+    <ClCompile Include="354.套娃信封.cpp">
+      <Filter>源文件\题库\专题\4.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="494.目标和%28dfs%29.cpp">
+      <Filter>源文件\题库\专题\4.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="72.编辑距离.cpp">
+      <Filter>源文件\题库\专题\4.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="53.最大子数组和.cpp">
+      <Filter>源文件\题库\专题\4.动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="416.分割等和子集.cpp">
+      <Filter>源文件\题库\专题\4.动态规划\背包问题</Filter>
+    </ClCompile>
+    <ClCompile Include="BFS模板.cpp">
+      <Filter>源文件\题库\专题\7.BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="111.二叉树的最小深度.cpp">
+      <Filter>源文件\题库\专题\7.BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="752.打开转盘锁.cpp">
+      <Filter>源文件\题库\专题\7.BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="74.最小覆盖子串.cpp">
+      <Filter>源文件\题库\专题\8.滑动窗口</Filter>
+    </ClCompile>
+    <ClCompile Include="528.按权重随机分配.cpp">
+      <Filter>源文件\题库\专题\9.二分搜索</Filter>
+    </ClCompile>
+    <ClCompile Include="875.沫扬吃香蕉.cpp">
+      <Filter>源文件\题库\专题\9.二分搜索</Filter>
+    </ClCompile>
+    <ClCompile Include="226.翻转二叉树.cpp">
+      <Filter>源文件\题库\专题\10.二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="654.最大二叉树.cpp">
+      <Filter>源文件\题库\专题\10.二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="105.从前序与中序遍历构造二叉树.cpp">
+      <Filter>源文件\题库\专题\10.二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="106.从中序与后序遍历构造二叉树.cpp">
+      <Filter>源文件\题库\专题\10.二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="889.cpp">
+      <Filter>源文件\题库\专题\10.二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="797.所有可能的路径.cpp">
+      <Filter>源文件\题库\专题\11.图</Filter>
+    </ClCompile>
+    <ClCompile Include="912.cpp">
+      <Filter>源文件\题库\专题\2.排序\归并排序</Filter>
+    </ClCompile>
+    <ClCompile Include="315.计算左侧小于当前元素的个数.cpp">
+      <Filter>源文件\题库\专题\2.排序\归并排序</Filter>
+    </ClCompile>
+    <ClCompile Include="455.分发饼干.cpp">
+      <Filter>源文件\题库\专题\12.贪心算法</Filter>
+    </ClCompile>
+    <ClCompile Include="207.课程表.cpp">
+      <Filter>源文件\题库\专题\11.图\拓扑排序</Filter>
+    </ClCompile>
+    <ClCompile Include="210.cpp">
+      <Filter>源文件\题库\专题\11.图\拓扑排序</Filter>
+    </ClCompile>
+    <ClCompile Include="785.判断二分图.cpp">
+      <Filter>源文件\题库\专题\11.图\二分图</Filter>
+    </ClCompile>
+    <ClCompile Include="886.可能的二分法.cpp">
+      <Filter>源文件\题库\专题\11.图\二分图</Filter>
+    </ClCompile>
+    <ClCompile Include="433.最小基因变化.cpp">
+      <Filter>源文件\题库</Filter>
+    </ClCompile>
+    <ClCompile Include="942.增加字符串匹配.cpp">
+      <Filter>源文件\题库\每日一题</Filter>
+    </ClCompile>
+    <ClCompile Include="435.无重叠区间.cpp">
+      <Filter>源文件\题库\专题\12.贪心算法</Filter>
+    </ClCompile>
+    <ClCompile Include="452.cpp">
+      <Filter>源文件\题库\专题\12.贪心算法</Filter>
+    </ClCompile>
+    <ClCompile Include="944.删列造序.cpp">
+      <Filter>源文件\题库\每日一题</Filter>
+    </ClCompile>
+    <ClCompile Include="1305.两棵二叉搜索树的所有元素.cpp">
+      <Filter>源文件\题库\专题\10.二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="691.贴纸拼词hard.cpp">
+      <Filter>源文件\题库\每日一题\未AC</Filter>
+    </ClCompile>
+    <ClCompile Include="1728..cpp">
+      <Filter>源文件\题库\每日一题\未AC</Filter>
+    </ClCompile>
+    <ClCompile Include="870.cpp">
+      <Filter>源文件\题库\每日一题\未AC</Filter>
+    </ClCompile>
+    <ClCompile Include="449.cpp">
+      <Filter>源文件\题库\每日一题\未AC</Filter>
+    </ClCompile>
+    <ClCompile Include="812.最大三角形面积.cpp">
+      <Filter>源文件\题库\每日一题</Filter>
+    </ClCompile>
+    <ClCompile Include="04.06.后继者.cpp">
+      <Filter>源文件\题库\每日一题</Filter>
+    </ClCompile>
+    <ClCompile Include="953.验证外星语词典.cpp">
+      <Filter>源文件\题库\每日一题</Filter>
+    </ClCompile>
+    <ClCompile Include="4.寻找两个正序数组的中位数.cpp">
+      <Filter>源文件\题库\刷题\1.数组、双指针</Filter>
+    </ClCompile>
+    <ClCompile Include="668.乘法表中第k小的数.cpp">
+      <Filter>源文件\题库\刷题\1.数组、双指针</Filter>
+    </ClCompile>
+    <ClCompile Include="462.cpp">
+      <Filter>源文件\题库\每日一题</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="449.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
